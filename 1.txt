@@ -1,0 +1,83 @@
+### 1 ###
+WHAT IS GIT ?  -- DATE :) 7 NOV 2021
+
+
+✔ Git is distributed version control system (DVCS)
+✔ Each user has a local copy of the complete history of the project,
+   which is known as repository.
+
+
+✔ Git is a free and open source software project .
+✔ Linus Torvalds -- git bhi banaya and linux bhi banaya .
+
+
+1st video completed.
+
+
+### 2 ###
+
+Installing git 
+
+✔ git --version
+✔ git help
+
+2nd video completed
+
+
+### 3 ###
+
+WHAT IS GIT INIT ?
+
+✔ git status
+✔ git init 
+
+connecting your credential 
+
+✔ git config --global user.name "name"
+✔ git config --global user.email
+
+
+### HOW GIT WORKS ? ###
+
+Working Directory :)
+
+✔ git add
+Staging Area :)
+
+✔ git commit
+Local repository:)
+
+
+                  git add               git commit
+Working Directory -------> Staging Area -----> Local repository
+
+
+✔ git log
+✔ git log --oneline
+
+
+## Github tutorial
+
+github is code hosting platform for version control and collaboration , 
+
+
+## Git and Github in one video
+
+✔ git init
+✔ git status
+✔ git add .
+✔ git commit -m "initial commit"
+✔ git log || git log --oneline
+✔ git remote add origin url
+✔ git remote
+✔ git push -u origin master
+
+
+## NOW UPDATING 
+
+✔ git add .
+✔ git commit -m "message"
+✔ git push -u origin
+
+
+### Branch In one video ###
