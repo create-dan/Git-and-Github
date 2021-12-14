@@ -44,6 +44,9 @@ Working Directory :)
 ✔ git add
 Staging Area :)
 
+✔ For unstaging any changes
+git rm --catched <file name>
+
 ✔ git commit
 Local repository:)
 
@@ -81,3 +84,8 @@ github is code hosting platform for version control and collaboration ,
 
 
 ### Branch In one video ###
+
+
+git branch login  --> Create a new branch with name login
+git checkout login --> shift to that branch
+git merge login
